@@ -48,3 +48,8 @@ If you want to add more than two website then you can add like this
 ```
 
 >And Just remember one thing for the last website name do not give the `,`
+
+## Your screen 
+
+After finishing the all the setups . And go that website then you will find this . 
+![Image](Src/image.png)
