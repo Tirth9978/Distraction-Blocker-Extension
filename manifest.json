@@ -1,0 +1,21 @@
+{
+     "manifest_version": 3,
+     "name": "Site Modifier Extension",
+     "version": "1.0",
+     "description": "Modifies specific website content",
+     "content_scripts": [
+          {
+               "matches": [
+                    "*://*.instagram.com/*",
+                    "*://*.youtube.com/shorts/*"
+               ],
+               "js": [
+                    "content.js"
+               ],
+               "run_at": "document_idle"
+          }
+     ],
+     "permissions": [
+          "scripting"
+     ]
+}
