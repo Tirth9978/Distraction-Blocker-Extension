@@ -9,8 +9,6 @@ This is a **browser extension** built to help users stay focused by **blocking d
 
 ## 🚀 Features
 
-- 🔒 Blocks `instagram.com`
-- 🚫 Blocks `youtube.com/shorts`
 - ✅ Easy to customize with your own blocked sites
 - ⚙️ Lightweight and privacy-first
 - 📂 100% Open Source
