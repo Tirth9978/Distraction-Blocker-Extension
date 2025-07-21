@@ -6,8 +6,8 @@
      "content_scripts": [
           {
                "matches": [
-                    "*://*.instagram.com/*",
-                    "*://*.youtube.com/shorts/*"
+                    "*://*.example1.com/*",
+                    "*://*.example2.com/*"
                ],
                "js": [
                     "content.js"
