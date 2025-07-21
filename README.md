@@ -5,7 +5,7 @@
 
 ## 🛡️ About the Project
 
-This is a **browser extension** built to help users stay focused by **blocking distracting websites** like Instagram and YouTube Shorts. The extension promotes digital mindfulness and control over addictive content.
+This is a **browser extension** built to help users stay focused by **blocking distracting websites** . The extension promotes digital mindfulness and control over addictive content.
 
 ## 🚀 Features
 
